@@ -1,10 +1,12 @@
- 👋 Hi there! I'm machine learning engineer.
+👋 Hi there! I'm machine learning engineer.
 
+- 🔭 I’m currently working on Com2uS Platform.
+- 💬 Ask me about anything!
 
-Here are some ideas to get you started:
+<!--Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Com2uS Platform
-- 💬 Ask me about ...
+- 🔭 I’m currently working on Com2uS Platform.
+- 💬 Ask me about anything!
 - 📫 How to reach me: 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
