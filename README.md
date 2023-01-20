@@ -1,6 +1,6 @@
 👋 Hi there! I'm machine learning engineer.
 
-- 🔭 I’m currently working on Com2uS Platform.
+- 🔭 I’m currently working on NCSOFT.
 - 💬 Ask me about anything!
 
 <!--Here are some ideas to get you started:
